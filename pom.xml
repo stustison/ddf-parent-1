@@ -76,7 +76,7 @@
         <!--Maven properties-->
         <dependency-check-maven.version>3.1.1</dependency-check-maven.version>
         <jbake.maven.plugin.version>0.0.9</jbake.maven.plugin.version>
-        <karaf.plugin.version>4.2.0</karaf.plugin.version>
+        <karaf.plugin.version>4.2.1</karaf.plugin.version>
         <maven.clean.plugin.version>2.4.1</maven.clean.plugin.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -150,7 +150,7 @@
         <error_prone_core.version>2.1.2</error_prone_core.version>
         <fabric8.version>3.0.12</fabric8.version>
         <failsafe.pax-exam-compatible.version>2.17</failsafe.pax-exam-compatible.version>
-        <felix.configadmin.version>1.8.14</felix.configadmin.version>
+        <felix.configadmin.version>1.9.4</felix.configadmin.version>
         <felix.framework.version>5.6.6</felix.framework.version>
         <ftpserver-version>1.0.6</ftpserver-version>
         <geotools.version>19.1</geotools.version>
@@ -198,7 +198,7 @@
         <jts.spatial4j.version>1.15.0</jts.spatial4j.version>
         <jts.version>1.14.0</jts.version>
         <jvnet-ogc.version>2.6.1</jvnet-ogc.version>
-        <karaf.version>4.2.0</karaf.version>
+        <karaf.version>4.2.1</karaf.version>
         <keyczar.version>0.66</keyczar.version>
         <la4j.version>0.6.0</la4j.version>
         <log4j.version>1.2.17</log4j.version>
@@ -228,15 +228,15 @@
         <oracle.version>11.2.0</oracle.version>
         <org.geotools.bundle.version>${org.geotools.version}_2</org.geotools.bundle.version>
         <org.geotools.version>19.1</org.geotools.version>
+        <!-- Note: The swissbox version needs to match the version used by pax-exam . -->
         <org.ops4j.pax.swissbox.version>1.8.2</org.ops4j.pax.swissbox.version>
-        <org.ow2.asm.version>5.0.2</org.ow2.asm.version>
         <org.rrd4j.version>2.2</org.rrd4j.version>
         <org.slf4j.version>1.7.1</org.slf4j.version>
         <osgi.version>5.0.0</osgi.version>
         <owasp-html-sanitizer.version>20171016.1</owasp-html-sanitizer.version>
         <ows-v_1_0_0-schema.version>1.1.0</ows-v_1_0_0-schema.version>
         <pax.cdi.version>1.0.0</pax.cdi.version>
-        <pax.exam.version>4.11.0</pax.exam.version>
+        <pax.exam.version>4.12.0</pax.exam.version>
         <pax.url.version>2.5.4</pax.url.version>
         <pax.transx.version>0.2.0</pax.transx.version>
         <pax.web.version>7.2.3</pax.web.version>
@@ -262,7 +262,7 @@
         <spark.version>2.5.5</spark.version>
         <spatial4j.version>0.7</spatial4j.version>
         <spring.osgi.mock.version>1.2.1</spring.osgi.mock.version>
-        <spring.version>5.0.5.RELEASE</spring.version>
+        <spring.version>5.0.8.RELEASE</spring.version>
         <spring-osgi.version>1.2.1</spring-osgi.version>
         <surefire.version>2.20.1</surefire.version>
         <tika.thirdparty.bundle.version>1.18.0_2</tika.thirdparty.bundle.version>
