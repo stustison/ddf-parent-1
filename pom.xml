@@ -48,7 +48,7 @@
         <maven-dependency-plugin.version>3.0.2</maven-dependency-plugin.version>
         <maven.deploy.plugin.version>2.6</maven.deploy.plugin.version>
         <maven.install.plugin.version>2.5.2</maven.install.plugin.version>
-        <maven-jacoco-plugin.version>0.8.1</maven-jacoco-plugin.version>
+        <maven-jacoco-plugin.version>0.8.2</maven-jacoco-plugin.version>
         <maven.javadoc.plugin.version>2.7</maven.javadoc.plugin.version>
         <maven-jaxb2-plugin.version>0.8.2</maven-jaxb2-plugin.version>
         <maven.release.plugin.version>2.5.1</maven.release.plugin.version>
