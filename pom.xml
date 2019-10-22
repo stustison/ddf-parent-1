@@ -41,7 +41,7 @@
     </parent>
 
     <properties>
-        <dependency-check-maven.version>3.1.1</dependency-check-maven.version>
+        <dependency-check-maven.version>5.2.2</dependency-check-maven.version>
         <jbake.maven.plugin.version>0.0.9</jbake.maven.plugin.version>
         <maven-checkstyle-plugin.version>3.0.0</maven-checkstyle-plugin.version>
         <maven.clean.plugin.version>2.4.1</maven.clean.plugin.version>
